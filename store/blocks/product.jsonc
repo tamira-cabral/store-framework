@@ -26,7 +26,7 @@
     ],
     "props": {
       "verticalAlign": "middle",
-      "preventVerticalStretch": "height: auto",
+      "preventVerticalStretch": "true",
       "showSavings": "true",
       "showListPrice": "true"
     }
